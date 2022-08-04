@@ -8,7 +8,7 @@
     'summary': 'Manage your social media and website visitors',
     'version': '1.2',
     'description': """Manage your social media and website visitors""",
-    'website': 'https://www.odoo.com/app/social-marketing',
+    'website': 'https://www.odoo.com/app/jnjnjn',
     'depends': ['web', 'mail', 'iap', 'link_tracker'],
     'data': [
         'security/social_security.xml',
